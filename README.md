@@ -118,5 +118,7 @@ select * from animais where length(nome)  - length(replace(nome,' ', '')) >=1;
 ## códigos
 
 animais:  ![animais_especies](animais_etapa2.sql)
+
 produtos: ![produtos_marcas](produto_2.sql)
+
 filmes:   ![filmes_categorias](filmes.sql)

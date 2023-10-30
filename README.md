@@ -98,3 +98,25 @@ select * from animais where length(nome)  - length(replace(nome,' ', '')) >=1;
 
 ## Código
 ![codigo](animais_etapa1.sql)
+
+## ETAPA 2
+
+### 1) Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição.Faça a modelagem relacional, DER.
+
+![animais](animais.png)
+### Insira pelo menos 8 animais e 3 espécies.
+![animais_especies](animais_especies.png)
+### 2) Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone.Faça a modelagem relacional, DER.
+![produto](produto.png)
+### Insira pelo menos 8 Produtos e 3 Marcas.
+![produto_marca](produto_marca.png)
+### 3) Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo. Faça a modelagem relacional, DER.
+![filmes](filmes.png)
+### Insira pelo menos 8 Filmes e 3 Categorias.
+![filmes_categoria](filmes_categoria.png)
+
+## códigos
+
+animais: ![animais]()
+produtos:
+filmes:
